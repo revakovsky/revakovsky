@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm a beginner Android App Developer
 
-###Languages and Tools
+##Languages and Tools
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-00061a?style=for-the-badge&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-00061a?style=for-the-badge&?logo)
