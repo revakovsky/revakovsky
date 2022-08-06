@@ -1,4 +1,4 @@
-![[Header](https://github.com/revakovsky/revakovsky/blob/main/assets/Revakovskyi%20M%20Logo1.png)](https://github.com/revakovsky)
+![[Header](https://github.com/revakovsky/revakovsky/blob/main/assets/Logo.png?raw=true)](https://github.com/revakovsky)
 
 About Me
 
