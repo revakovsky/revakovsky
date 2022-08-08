@@ -19,5 +19,11 @@ Welcome to my page!
 [![Telegram](https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https://t.me/android_revakovskyi)](https://t.me/android_revakovskyi)
 [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https://www.instagram.com/revakovsky/)](https://www.instagram.com/revakovsky/)
 
+<br/>
+<details>
+    <summary>Statistics:</summary>
+    <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=revakovsky&show_icons=true&hide=contribs&bg_color=DEG,0066ff,3366ff,6699ff&text_color=ffff00&title_color=000000&icon_color=000000">
+</details>
+
 
 
