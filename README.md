@@ -13,8 +13,11 @@ Welcome to my page!
 ![FIREBASE](https://img.shields.io/badge/-FIREBASE-ffff66?style=for-the-badge&logo=FIREBASE)
 ![RETROFIT](https://img.shields.io/badge/-RETROFIT-ffff66?style=for-the-badge&logo=RETROFIT)
 
-Follow Me
+### Follow Me on my social networks
 
+![LinkedIn](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frevakovskyi%2F)
+![Telegram](https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https://t.me/android_revakovskyi)
+![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https://www.instagram.com/revakovsky/)
 
 
 
