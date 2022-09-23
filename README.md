@@ -1,4 +1,4 @@
-[![Header](https://github.com/revakovsky/revakovsky/blob/main/assets/Logo.png?raw=true)](https://www.linkedin.com/in/revakovskyi/)
+[![Header](https://github.com/revakovsky/revakovsky/blob/main/assets/Logo.png?raw=true)](https://stand-with-ukraine.pp.ua/)
 
 ### Languages and Tools
 
